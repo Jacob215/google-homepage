@@ -5,7 +5,7 @@
 }
 
 .right-footer {
-    padding-right:27px;
+    padding-right:17px;
 }
 
 .left-header, .left-footer {
@@ -17,9 +17,9 @@ li {
 }
 
 header {
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
     word-spacing: 15px;
     box-sizing: border-box;
     height: 5vh;
@@ -36,13 +36,13 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 150px;
+    padding-top: 155px;
     padding-bottom: 25px;
 }
 
 .content {
     box-sizing: border-box;
-    height: 90vh;
+    height: 90.5vh;
     background-color: #fff;
     text-align: center;
 }
@@ -51,16 +51,18 @@ footer {
     padding: 10px;
     box-sizing: border-box;
     background-color: #f2f2f2;
-    height: 5vh;
-    line-height: 2.5vh;
+    height: 4vh;
+    line-height: 2vh;
+    border-top: 1px solid #e4e4e4;
 }
 
 footer a {
     font-size: 13px;
     color: #5f6368;
-    padding-left: 27px;
-    margin: 0 !important;
+    padding-left: 20px;
+    /** margin: 0 !important; **/
     font-family: arial, sans-serif;
+    margin: 0 3px 0 0 ;
 }
 
 .container {
@@ -77,8 +79,8 @@ input[type='submit'] {
     color: #5f6368;
     font-family: arial, sans-serif;
     font-size: 14px;
-    margin: 11px 4px;
-    padding: 0 16px;
+    margin: 11px 4px; 
+    padding: 0 16px; 
     line-height: 27px;
     height: 36px;
     min-width: 54px;
@@ -101,7 +103,7 @@ input[type='submit'] {
 }
 
 .searchbuttons {
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 input[type='text'] {
@@ -115,5 +117,9 @@ input[type='text'] {
     display: flex;
     flex: 100%;
     -webkit-tap-highlight-color: transparent;
-    padding-top: 15px;
+    padding-top: 13px;
+    padding-left: 15px;
+    width: 550px;
+    font: 16px arial, sans-serif;
 }
+
