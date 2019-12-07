@@ -1,1 +1,2 @@
-This is a project to copy the google homepage.
+This is a project to copy the google homepage as part of the Project Odin course.
+Overall I'm happy with the appearance. I set up the framework and got things into there places before copying the colors / some other styling info using the inspect tool. I might clean up the code later as the styles.css is pretty messy and could be trimmed down (I'm sure in my experimenting and copying I left in some useless lines) and rearranged into a more read-able order. 
